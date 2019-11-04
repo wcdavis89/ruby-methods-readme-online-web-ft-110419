@@ -3,8 +3,8 @@ def greeting
 end
 
 greeting
-
-2.times do
-  puts greeting
-end
+greeting
+greeting
+greeting
+greeting
 
