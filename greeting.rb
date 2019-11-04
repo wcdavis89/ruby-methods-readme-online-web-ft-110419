@@ -4,6 +4,7 @@ end
 
 greeting
 
-5.times do
+2.times do
   puts greeting
 end
+
